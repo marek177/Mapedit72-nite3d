@@ -1,0 +1,1 @@
+Temporary CI trigger for MapEdit72N3D Windows x86/x64 compilation on 2026-09-19.
