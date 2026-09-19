@@ -2,6 +2,13 @@
 
 C#/.NET 8 WinForms reconstruction/port of the classic MapEdit workflow with native support for Gray Design Associates' **Nitemare 3-D** map files.
 
+AI assistance disclosure
+This is an AI-assisted reverse-engineering and reconstruction project. A substantial part of the analysis, research, documentation, code generation, refactoring, and interpretation of reverse-engineered material has been produced with the assistance of ChatGPT by OpenAI, under the direction and review of marek177.
+
+Git commit authorship therefore identifies the account that committed the files and should not be interpreted as meaning that every analysis, document, or line of code was written manually and independently by the repository owner. AI-generated or AI-assisted findings may contain errors, especially where original source code or symbols are unavailable, so important reverse-engineering conclusions should be independently verified against the original executable and game data.
+
+
+
 ## Current features
 
 - Opens and saves native `MAP.1`, `MAP.2`, `MAP.3` files.
