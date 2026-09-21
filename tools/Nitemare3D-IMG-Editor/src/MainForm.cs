@@ -2,7 +2,7 @@ namespace Nitemare3D.ImgEditor;
 
 public sealed class MainForm : Form
 {
-    ImgDocument? doc; readonly GamePalette pal=new(); readonly HistoryManager hist=new();
+    ImgDocument? doc; readonly GamePalette pal = new GamePalette(); readonly HistoryManager hist = new HistoryManager();
     readonly MenuStrip menu=new();
     readonly ListView list=new(); readonly PixelCanvas canvas=new(); readonly PaletteControl palette=new();
     readonly Label status=new(), details=new(); readonly ComboBox filter=new(); readonly NumericUpDown zoom=new();
